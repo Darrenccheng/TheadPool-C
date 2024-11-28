@@ -1,0 +1,3 @@
+/home/computer_Study/pthreads_study/mythreadPoolC/build/CMakeFiles/rebuild_cache.dir
+/home/computer_Study/pthreads_study/mythreadPoolC/build/CMakeFiles/edit_cache.dir
+/home/computer_Study/pthreads_study/mythreadPoolC/build/CMakeFiles/threadPoolC.dir

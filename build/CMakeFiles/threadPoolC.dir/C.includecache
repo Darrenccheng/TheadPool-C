@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/computer_Study/pthreads_study/mythreadPoolC/main.c
+stdio.h
+-
+mythreadC.h
+/home/computer_Study/pthreads_study/mythreadPoolC/mythreadC.h
+pthread.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/home/computer_Study/pthreads_study/mythreadPoolC/mythreadC.c
+mythreadC.h
+/home/computer_Study/pthreads_study/mythreadPoolC/mythreadC.h
+unistd.h
+-
+
+/home/computer_Study/pthreads_study/mythreadPoolC/mythreadC.h
+pthread.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

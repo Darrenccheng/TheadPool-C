@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/threadPoolC.dir/main.c.o CMakeFiles/threadPoolC.dir/mythreadC.c.o  -o /home/aa/bb/cc/threadPoolC  -lpthread 
